@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
 
 
 import pandas as pd
@@ -9,7 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-# In[2]:
+
 
 
 dataset = sns.load_dataset("tips")
